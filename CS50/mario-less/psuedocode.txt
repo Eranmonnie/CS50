@@ -1,0 +1,1 @@
+create a do-while loop to check if height inputed is less than one or greater than eight.
